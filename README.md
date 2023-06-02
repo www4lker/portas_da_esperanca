@@ -1,5 +1,8 @@
 # portas_da_esperanca
 
+![Logo](https://i.postimg.cc/KvRDT60C/image.png)
+[Earth, Wind & Fire - In the Stone (Audio)](https://www.youtube.com/watch?v=6Z2xClustQo)
+
 Joguinho educacional baseado no problema Monty Hall, mais conhecido como Portas da Esperança no Brasil
 
 ## O jogo
